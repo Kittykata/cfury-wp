@@ -1,0 +1,18 @@
+/*
+Theme Name: SimpleKey
+Theme URI: http://demo.themevan.com/simpekey
+Description: One page portfolio WordPress Theme. - Last update:2014-03-18
+Author: ThemeVan
+Author URI:  http://www.themevan.com
+License: GNU General Public License and Themeforest general license
+License URI: License/README_License.txt
+Tags: one-column,flexible-width,custom-colors,custom-menu,theme-options,translation-ready
+Version: 1.23
+*/
+@import url(css/general.css);
+@import url(css/layout.css);
+
+/*logo in nav*/
+h1#site-logo, h1#site-logo a {
+width: 230px;
+}
